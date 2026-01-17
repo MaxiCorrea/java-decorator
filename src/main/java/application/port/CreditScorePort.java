@@ -1,4 +1,4 @@
-package domain.port;
+package application.port;
 
 public interface CreditScorePort {
 

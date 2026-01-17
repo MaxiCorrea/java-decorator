@@ -3,7 +3,7 @@ package infrastructure.decorator;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import domain.port.CreditScorePort;
+import application.port.CreditScorePort;
 
 public class CachedCreditScoreDecorator extends CreditScoreDecorator {
 

@@ -1,6 +1,6 @@
 package application.usecase;
 
-import domain.port.CreditScorePort;
+import application.port.CreditScorePort;
 
 public class GetCreditScoreUseCase {
 

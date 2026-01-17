@@ -1,6 +1,6 @@
 package infrastructure.decorator;
 
-import domain.port.CreditScorePort;
+import application.port.CreditScorePort;
 
 public abstract class CreditScoreDecorator implements CreditScorePort {
 

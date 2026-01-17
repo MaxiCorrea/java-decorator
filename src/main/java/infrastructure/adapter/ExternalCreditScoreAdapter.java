@@ -1,6 +1,6 @@
 package infrastructure.adapter;
 
-import domain.port.CreditScorePort;
+import application.port.CreditScorePort;
 
 public class ExternalCreditScoreAdapter implements CreditScorePort {
 
